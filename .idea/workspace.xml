@@ -5,7 +5,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="864487bf-fdc3-45c2-b299-31f9ca4580da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sis_biblioteca.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biblioteca/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biblioteca/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biblioteca/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biblioteca/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biblioteca/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biblioteca/migrations/0002_auto_20180926_1118.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biblioteca/migrations/0003_auto_20180926_1340.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biblioteca/migrations/0004_auto_20180926_1430.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biblioteca/migrations/0005_pessoafisica_sexo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biblioteca/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biblioteca/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biblioteca/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biblioteca/templates/bibliotecas.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biblioteca/templates/cadastrar_pessoa_fisica.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biblioteca/templates/calculadora.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biblioteca/templates/emprestimos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biblioteca/templates/hello_world.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biblioteca/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biblioteca/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biblioteca/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biblioteca/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biblioteca/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sis_biblioteca/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sis_biblioteca/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sis_biblioteca/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sis_biblioteca/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/uploads/imagens/WhatsApp_Image_2018-09-20_at_12.23.24.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/uploads/imagens/python-livro.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/uploads/imagens/teste.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/uploads/pdfs/1_4994893669275271233.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/uploads/pdfs/Curso_Python_e_Django_-_IFBaiano_-_Parte_2.pdf" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,8 +132,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/biblioteca/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="72" column="57" selection-start-line="72" selection-start-column="57" selection-end-line="72" selection-end-column="57" />
+            <state relative-caret-position="526">
+              <caret line="81" column="10" lean-forward="true" selection-start-line="81" selection-start-column="10" selection-end-line="81" selection-end-column="10" />
               <folding>
                 <element signature="e#24#63#0" expanded="true" />
               </folding>
@@ -270,7 +308,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sis_biblioteca" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sis_biblioteca" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
@@ -278,7 +326,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SearchEverywhereHistoryKey" value="base&#9;FILE&#9;file:///Users/allysonbarros/workspace_suap/curso_ifbaiano/sis_biblioteca/biblioteca/templates/base.html&#10;empres&#9;FILE&#9;file:///Users/allysonbarros/workspace_suap/curso_ifbaiano/sis_biblioteca/biblioteca/templates/emprestimos.html&#10;forms&#9;FILE&#9;file:///Users/allysonbarros/workspace_suap/curso_ifbaiano/sis_biblioteca/biblioteca/forms.py&#10;form&#9;FILE&#9;file:///Users/allysonbarros/workspace_suap/curso_ifbaiano/sis_biblioteca/biblioteca/forms.py&#10;urls&#9;FILE&#9;file:///Users/allysonbarros/workspace_suap/curso_ifbaiano/sis_biblioteca/biblioteca/urls.py&#10;admin&#9;FILE&#9;file:///Users/allysonbarros/workspace_suap/curso_ifbaiano/sis_biblioteca/biblioteca/admin.py&#10;models&#9;FILE&#9;file:///Users/allysonbarros/workspace_suap/curso_ifbaiano/sis_biblioteca/biblioteca/models.py&#10;index&#9;FILE&#9;file:///Users/allysonbarros/workspace_suap/curso_ifbaiano/sis_biblioteca/biblioteca/templates/index.html&#10;urls.py&#9;FILE&#9;file:///Users/allysonbarros/workspace_suap/curso_ifbaiano/sis_biblioteca/biblioteca/urls.py" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -305,7 +353,7 @@
     </option>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -568,8 +616,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/biblioteca/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="72" column="57" selection-start-line="72" selection-start-column="57" selection-end-line="72" selection-end-column="57" />
+        <state relative-caret-position="526">
+          <caret line="81" column="10" lean-forward="true" selection-start-line="81" selection-start-column="10" selection-end-line="81" selection-end-column="10" />
           <folding>
             <element signature="e#24#63#0" expanded="true" />
           </folding>
