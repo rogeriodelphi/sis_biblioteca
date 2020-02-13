@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <table class="table table-sm table-bordered table-striped">
+        <thead class="thead-dark">
+            <tr>
+                <th class="text-center">#</th>
+                <th>Nome</th>
+                <th>Campus</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for biblioteca in bibliotecas %}
+                <tr>
+                    <td class="text-center">{{ biblioteca.id }}</td>
+                    <td>{{ biblioteca.nome }}</td>
+                    <td>{{ biblioteca.campus }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+{% endblock %}
